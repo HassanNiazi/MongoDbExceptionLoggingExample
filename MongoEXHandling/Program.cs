@@ -16,17 +16,18 @@ namespace MongoEXHandling
             var bson = MongoDB.Bson.Serialization.BsonSerializer.Deserialize<BsonDocument>(json);
             collection.InsertOneAsync(bson).Wait();
             Read(collection);
+            Console.Read();
         }
 
         public static void Read(IMongoCollection<BsonDocument> collection)
         {
-            foreach (var item in collection.Find(new BsonDocument()).ToList())
+            foreach (var document in collection.Find(new BsonDocument()).ToList())
             {
-                foreach (var document in item)
+                foreach (var element in document)
                 {
-                    Console.WriteLine(document);
-                    Console.WriteLine();
+                    Console.WriteLine(element);
                 }
+                Console.WriteLine("-------------------------------------------");
             }
         }
     }

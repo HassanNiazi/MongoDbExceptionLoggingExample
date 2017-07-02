@@ -13,3 +13,18 @@ c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHand
 c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\obj\Debug\MongoEXHandling.pdb
 c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\bin\Debug\Newtonsoft.Json.dll
 c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sikan\Source\Repos\MongoDbExceptionLoggingExample\MongoEXHandling\bin\Debug\MongoEXHandling.exe.config
+C:\Users\sikan\Source\Repos\MongoDbExceptionLoggingExample\MongoEXHandling\bin\Debug\MongoEXHandling.exe
+C:\Users\sikan\Source\Repos\MongoDbExceptionLoggingExample\MongoEXHandling\bin\Debug\MongoEXHandling.pdb
+C:\Users\sikan\Source\Repos\MongoDbExceptionLoggingExample\MongoEXHandling\bin\Debug\MongoDB.Bson.dll
+C:\Users\sikan\Source\Repos\MongoDbExceptionLoggingExample\MongoEXHandling\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\sikan\Source\Repos\MongoDbExceptionLoggingExample\MongoEXHandling\bin\Debug\MongoDB.Driver.dll
+C:\Users\sikan\Source\Repos\MongoDbExceptionLoggingExample\MongoEXHandling\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sikan\Source\Repos\MongoDbExceptionLoggingExample\MongoEXHandling\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sikan\Source\Repos\MongoDbExceptionLoggingExample\MongoEXHandling\bin\Debug\MongoDB.Bson.xml
+C:\Users\sikan\Source\Repos\MongoDbExceptionLoggingExample\MongoEXHandling\bin\Debug\MongoDB.Driver.xml
+C:\Users\sikan\Source\Repos\MongoDbExceptionLoggingExample\MongoEXHandling\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\sikan\Source\Repos\MongoDbExceptionLoggingExample\MongoEXHandling\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sikan\Source\Repos\MongoDbExceptionLoggingExample\MongoEXHandling\obj\Debug\MongoEXHandling.csprojResolveAssemblyReference.cache
+C:\Users\sikan\Source\Repos\MongoDbExceptionLoggingExample\MongoEXHandling\obj\Debug\MongoEXHandling.exe
+C:\Users\sikan\Source\Repos\MongoDbExceptionLoggingExample\MongoEXHandling\obj\Debug\MongoEXHandling.pdb
