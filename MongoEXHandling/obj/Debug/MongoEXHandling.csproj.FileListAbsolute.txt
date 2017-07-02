@@ -1,0 +1,15 @@
+c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\bin\Debug\MongoEXHandling.exe.config
+c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\bin\Debug\MongoEXHandling.exe
+c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\bin\Debug\MongoEXHandling.pdb
+c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\bin\Debug\MongoDB.Bson.dll
+c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\bin\Debug\MongoDB.Driver.dll
+c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\bin\Debug\MongoDB.Bson.xml
+c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\bin\Debug\MongoDB.Driver.xml
+c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\obj\Debug\MongoEXHandling.csprojResolveAssemblyReference.cache
+c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\obj\Debug\MongoEXHandling.exe
+c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\obj\Debug\MongoEXHandling.pdb
+c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\bin\Debug\Newtonsoft.Json.dll
+c:\users\sikan\documents\visual studio 2017\Projects\MongoEXHandling\MongoEXHandling\bin\Debug\Newtonsoft.Json.xml
