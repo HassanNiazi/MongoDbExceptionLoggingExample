@@ -1,0 +1,2 @@
+# MongoDbExceptionLoggingExample
+MongoDbExceptionLoggingExample
